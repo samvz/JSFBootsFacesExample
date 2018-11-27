@@ -1,0 +1,9 @@
+com\samuel\modell\Usuario.class
+com\samuel\configbd\Conexionbd.class
+com\samuel\controller\UsuarioCtrl.class
+com\samuel\controllerimpl\CategoriaCtrlImpl.class
+com\samuel\modell\Categoria.class
+com\samuel\controllerimpl\UsuarioCtrlImpl.class
+com\samuel\dao\CategoriaDAO.class
+com\samuel\dao\UsuarioDAO.class
+com\samuel\controller\CategoriaCtrl.class
